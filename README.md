@@ -26,7 +26,7 @@ A real-time todo application built with Firebase, featuring user authentication 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/firebase-todo-app.git
+git clone https://github.com/sameeraswijekoon/firebase-todo-app.git
 ```
 
 2. Create a Firebase project at [Firebase Console](https://console.firebase.google.com)
